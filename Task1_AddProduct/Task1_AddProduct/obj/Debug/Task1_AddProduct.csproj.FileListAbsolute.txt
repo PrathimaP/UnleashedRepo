@@ -1,0 +1,14 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Task1_AddProduct\Task1_AddProduct\bin\Debug\Task1_AddProduct.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Task1_AddProduct\Task1_AddProduct\bin\Debug\chromedriver.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Task1_AddProduct\Task1_AddProduct\bin\Debug\Task1_AddProduct.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Task1_AddProduct\Task1_AddProduct\bin\Debug\Task1_AddProduct.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Task1_AddProduct\Task1_AddProduct\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Task1_AddProduct\Task1_AddProduct\bin\Debug\nunit.framework.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Task1_AddProduct\Task1_AddProduct\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Task1_AddProduct\Task1_AddProduct\bin\Debug\WebDriver.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Task1_AddProduct\Task1_AddProduct\bin\Debug\WebDriver.Support.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Task1_AddProduct\Task1_AddProduct\bin\Debug\nunit.framework.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Task1_AddProduct\Task1_AddProduct\bin\Debug\WebDriver.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Task1_AddProduct\Task1_AddProduct\bin\Debug\WebDriver.Support.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Task1_AddProduct\Task1_AddProduct\obj\Debug\Task1_AddProduct.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Task1_AddProduct\Task1_AddProduct\obj\Debug\Task1_AddProduct.pdb
